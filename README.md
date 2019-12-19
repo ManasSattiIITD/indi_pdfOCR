@@ -19,6 +19,9 @@ Requirements:
   2. pytesseract
   3. pdf2image
   4. Pillow
+  5. os
+  6. sys
+  7. shutil
 
   *TIP* :  Use command "pip3 install <module_name>" in cmd with admin privileges.
   eg.:-   pip3 install threading
